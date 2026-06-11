@@ -215,7 +215,7 @@ export default function Home() {
       </section>
 
       <section id="journey" className="px-5 py-20 sm:px-8 lg:px-12">
-        <div className="mx-auto max-w-[1440px] bg-[#5D001F] px-6 py-8 text-white sm:px-10 sm:py-11 lg:px-14 lg:py-14">
+        <div className="mx-auto max-w-[1440px] rounded-[10px] bg-[#5D001F] px-6 py-8 text-white sm:px-10 sm:py-11 lg:px-14 lg:py-14">
           <div className="grid gap-12 lg:grid-cols-[0.72fr_1.28fr]">
             <div className="flex flex-col justify-between gap-12 border-b border-white/16 pb-8 lg:border-b-0 lg:border-r lg:pb-0 lg:pr-12">
               <div>
@@ -309,7 +309,7 @@ export default function Home() {
 
               <div
                 id="final-cta"
-                className="mt-10 grid items-center gap-7 bg-[#5D001F] p-7 text-white sm:grid-cols-[1fr_auto]"
+                className="mt-10 grid items-center gap-7 rounded-[10px] bg-[#5D001F] p-7 text-white sm:grid-cols-[1fr_auto]"
               >
                 <div>
                   <p className="mb-3 text-xs font-semibold uppercase tracking-[0.22em] text-white/58">
