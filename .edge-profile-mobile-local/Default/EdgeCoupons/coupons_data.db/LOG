@@ -1,0 +1,5 @@
+2026/06/11-01:17:00.758 d6ac Creating DB z:\teststwo\.edge-profile-mobile-local\Default\EdgeCoupons/coupons_data.db since it was missing.
+2026/06/11-01:17:00.763 d6ac Reusing MANIFEST z:\teststwo\.edge-profile-mobile-local\Default\EdgeCoupons/coupons_data.db/MANIFEST-000001
+2026/06/11-01:17:00.853 f790 Level-0 table #5: started
+2026/06/11-01:17:00.857 f790 Level-0 table #5: 682669 bytes OK
+2026/06/11-01:17:00.858 f790 Delete type=0 #3

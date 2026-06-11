@@ -1,0 +1,5 @@
+2026/06/11-01:15:06.388 ef0c Creating DB z:\teststwo\.edge-profile-desktop\Default\EdgeCoupons/coupons_data.db since it was missing.
+2026/06/11-01:15:06.412 ef0c Reusing MANIFEST z:\teststwo\.edge-profile-desktop\Default\EdgeCoupons/coupons_data.db/MANIFEST-000001
+2026/06/11-01:15:06.641 d970 Level-0 table #5: started
+2026/06/11-01:15:06.665 d970 Level-0 table #5: 682669 bytes OK
+2026/06/11-01:15:06.667 d970 Delete type=0 #3

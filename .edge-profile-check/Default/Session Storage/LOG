@@ -1,0 +1,5 @@
+2026/06/11-01:24:48.307 7cd0 Creating DB z:\teststwo\.edge-profile-check\Default\Session Storage since it was missing.
+2026/06/11-01:24:48.434 7cd0 Reusing MANIFEST z:\teststwo\.edge-profile-check\Default\Session Storage/MANIFEST-000001
+2026/06/11-01:24:49.318 7cd0 Level-0 table #5: started
+2026/06/11-01:24:49.321 7cd0 Level-0 table #5: 43373 bytes OK
+2026/06/11-01:24:49.323 7cd0 Delete type=0 #3
